@@ -1,0 +1,23 @@
+Total number of registered users: 3
+Total number of tasks: 3
+
+User: admin
+Total tasks assigned: 2
+Percentage of total tasks assigned: 66.66666666666666%
+Percentage of assigned tasks completed: 0.0%
+Percentage of assigned tasks incomplete: 100.0%
+Percentage of assigned tasks overdue: 100.0%
+
+User: Bonza
+Total tasks assigned: 0
+Percentage of total tasks assigned: 0.0%
+Percentage of assigned tasks completed: 0%
+Percentage of assigned tasks incomplete: 0%
+Percentage of assigned tasks overdue: 0%
+
+User: Loza
+Total tasks assigned: 1
+Percentage of total tasks assigned: 33.33333333333333%
+Percentage of assigned tasks completed: 0.0%
+Percentage of assigned tasks incomplete: 100.0%
+Percentage of assigned tasks overdue: 100.0%
