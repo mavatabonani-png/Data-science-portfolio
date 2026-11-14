@@ -2,7 +2,7 @@
 
 A command-line task management application developed in Python. The program allows registered users to manage tasks and provides additional options for an administrator to manage users, review completed tasks, and generate summary reports.
 
-This project was created as part of my Python programming practice and demonstrates working with functions, loops, conditional statements, dictionaries, text files, and date handling.
+This project was developed as part of my Python programming practice and demonstrates the practical application of functions, loops, conditional statements, dictionaries, file handling, and date manipulation to build a functional task management application.
 
 ## Features
 
